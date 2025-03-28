@@ -31,22 +31,3 @@ dist/**                 linguist-vendored
 *.html linguist-generated=true
 *.csv  linguist-generated=true
 *.png  linguist-generated=true
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
